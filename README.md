@@ -1,7 +1,7 @@
 cocos2dx-centili-mobile-payment-demo
 ====================================
 
-Demo application how to use Centili mobile payment in cocos2dx (v3+) for android.
+Demo application how to use [Centili mobile payment](https://www.centili.com/) in cocos2dx (v3+) for android.
 
 ###How to build and run the app?
 
